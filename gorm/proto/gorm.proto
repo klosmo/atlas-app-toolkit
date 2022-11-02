@@ -64,8 +64,8 @@ message GormTag {
     string default = 7;
     bool not_null = 8;
     bool auto_increment = 9;
-    string index = 10;
-    string unique_index = 11;
+    repeated string index = 10;
+    repeated string unique_index = 11;
     bool embedded = 12;
     string embedded_prefix = 13;
     bool ignore = 14;
