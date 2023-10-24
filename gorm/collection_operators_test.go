@@ -12,8 +12,8 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/metadata"
 
-	"github.com/infobloxopen/atlas-app-toolkit/v2/gateway"
-	"github.com/infobloxopen/atlas-app-toolkit/v2/query"
+	"github.com/klosmo/atlas-app-toolkit/v2/gateway"
+	"github.com/klosmo/atlas-app-toolkit/v2/query"
 )
 
 type Person struct {

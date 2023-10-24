@@ -2,7 +2,7 @@
 // versions:
 // 	protoc-gen-go v1.27.1
 // 	protoc        v3.15.7
-// source: github.com/infobloxopen/atlas-app-toolkit/rpc/errdetails/error_details.proto
+// source: github.com/klosmo/atlas-app-toolkit/rpc/errdetails/error_details.proto
 
 package errdetails
 

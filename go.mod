@@ -1,4 +1,4 @@
-module github.com/infobloxopen/atlas-app-toolkit/v2
+module github.com/klosmo/atlas-app-toolkit/v2
 
 go 1.19
 
